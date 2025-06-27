@@ -1,0 +1,1 @@
+mkdir "termux_essentials"
